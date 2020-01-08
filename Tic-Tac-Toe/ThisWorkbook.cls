@@ -9,7 +9,7 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = True
 Private Sub Workbook_Open()
 Application.WindowState = xlMinimized
-TicTacToe2.Show vbModeless
+TicTacToe.Show vbModeless
 
 
 'Do While count <> Repeat
